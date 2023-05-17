@@ -1,4 +1,4 @@
-# mrc
+#  telugu mrc dataset creation tool
 When you run the project, a Tkinter window titled "Login/Signup Form" will appear. You can either log in with existing credentials or sign up as a new user. After successful login or signup, a new window titled "Home Page" will open.
 
 In the "Home Page" window, you can enter a URL in the URL input field and click the "Upload URL" button. The program will scrape the content from the provided URL and display the first paragraph in the "content_label" text area.
